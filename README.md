@@ -1,1 +1,1 @@
-👋👋👋 Hi, I’m Julian-quintero, i’m a telecomunications engineer student and a self taught web-developer 📡📡📡
+👋👋👋 Hi, I’m Julian-quintero, i’m a telecommunications engineer student and a self taught web-developer 📡📡📡
