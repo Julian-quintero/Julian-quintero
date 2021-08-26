@@ -2,12 +2,16 @@
   <img width="460" height="300" src="https://wallpaperaccess.com/full/2482049.jpg">
 </p>
 
+<div align="center">
 👋👋👋 Hi, I’m Julian-quintero, i’m a Telecommunication engineering student 📡 and a self-taught developer.
 
+</div>
 
-
-
+<div align="center">
+  <br>
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Julian-quintero&hide=jupyter%20notebook,php,java&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
 ## Tech stack
 
